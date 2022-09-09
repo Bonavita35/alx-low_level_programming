@@ -1,16 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - print the string in the put function
- * prints this output: Programming is like building a multilingual puzzle
- * return 0
+ * main - returns the text "Programming is like building a multilingual puzzle
+ * Return: 0 if program is true else return something random
+ *
  */
 int main(void)
-{  
-
+{
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-
-}	
-
-
+}
