@@ -2,7 +2,7 @@
 
 /**
  * main-Entry point
- * decription:printf"with proper grammer, but the outcome is a piece of are,"
+ * decription:printf"with proper grammer, but the outcome is a piece of are,
  * Return:0
  */
 
