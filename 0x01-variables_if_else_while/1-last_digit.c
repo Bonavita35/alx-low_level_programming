@@ -12,7 +12,7 @@ int main(void)
 	int n, Id;
 
 	srand(time(0));
-	n = rand() RAND_MAX / 2;
+	n = rand() - RAND_MAX / 2;
 	Id = n % 10;
 
 	if (Id > 5)
