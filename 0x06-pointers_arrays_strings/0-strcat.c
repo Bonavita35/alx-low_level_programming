@@ -10,6 +10,7 @@
 char *_strcat(char *dest, char *src)
 {
 	int i;
+
 	int destLength = 0;
 
 	int counter = 0;
